@@ -1,3 +1,9 @@
+## 1.0.0 (2024-01-10)
+
+### Feat
+
+- final changes before production
+
 ## 0.3.0 (2024-01-10)
 
 ### BREAKING CHANGE
